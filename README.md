@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **wasifmehmoodtanoli@gmail.com**
 
-- 📄 Google play console developers page [https://play.google.com/store/apps/dev?id=8665223819663586443](https://play.google.com/store/apps/dev?id=8665223819663586443)
+- 👨‍💻 Google play console developers page [https://play.google.com/store/apps/dev?id=8665223819663586443](https://play.google.com/store/apps/dev?id=8665223819663586443)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
