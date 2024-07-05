@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasif Mehmood</h1>
-<h3 align="center">A passionate android and web developer from Pakistan</h3>
+<h3 align="center">A passionate AI and LLMs Engineer with experience in adnroid dev too</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif2mehmood&label=Profile%20views&color=0e75b6&style=flat" alt="wasif2mehmood" /> </p>
 
